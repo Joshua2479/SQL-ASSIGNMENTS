@@ -23,6 +23,3 @@ location VARCHAR(50));
                         ;
   SELECT *
   FROM bako;
-
-
-
